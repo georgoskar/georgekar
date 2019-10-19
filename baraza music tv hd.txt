@@ -1,0 +1,6 @@
+#EXTINF:0 tvg-id="ext" group-title="channels",baraza 
+https://5cc309e93b721.streamlock.net:443/8490/8490/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="channels",baraza tv
+https://5cc309e93b721.streamlock.net:443/8452/8452/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="channels",FASHION HD
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
