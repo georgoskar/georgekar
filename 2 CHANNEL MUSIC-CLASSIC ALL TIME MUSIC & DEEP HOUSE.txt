@@ -1,0 +1,4 @@
+﻿#EXTINF:0 tvg-id="ext" group-title="channels",baraza hd greek music hits
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="channels",baraza tv classic 80s-90s  music
+https://greekyoutube.eu:444/live/5e300ade5dadc/index.m3u8
